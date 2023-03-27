@@ -1,4 +1,9 @@
-# Auto Fixture
+# Auto Fixture 🤖
+
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/9404632/227989438-25adf349-6881-43d7-8d18-e89fca5c7914.png"
+>
+</p>
 
 **VSCode extension to generate test data for your unit tests using ChatGPT 🤖**
 
